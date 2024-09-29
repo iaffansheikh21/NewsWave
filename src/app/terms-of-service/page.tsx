@@ -37,7 +37,7 @@ const TermsOfService = () => {
 
         <h2 className="text-2xl font-semibold mb-4">4. Limitation of Liability</h2>
         <p className="mb-4">
-          Our website and services are provided on an "as is" basis. We make
+          Our website and services are provided on an &quot;as is&quot; basis. We make
           no representations or warranties of any kind, express or implied,
           regarding the operation of our website or the information, content,
           materials, or products included on our site.

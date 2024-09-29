@@ -43,7 +43,7 @@ const Header = () => {
               The NewsWave
             </h1>
             <p className="text-base leading-relaxed mb-6">
-              Stay informed with NewsWave's diverse articles, offering
+              Stay informed with NewsWave&apos;s diverse articles, offering
               comprehensive coverage and insightful analysis. Trust our team for
               accurate, timely updates, empowering you to stay knowledgeable
               and engaged.
